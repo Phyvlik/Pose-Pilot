@@ -16,7 +16,7 @@ Welcome to **Pose Pilot**, your AI-powered real-time posture assistant designed 
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/cravotics/Pose-pilot.git
+git clone https://github.com/Phyvlik/Pose-Pilot
 cd Pose-pilot
 ```
 
