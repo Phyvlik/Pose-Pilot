@@ -98,6 +98,6 @@ MIT License. Feel free to use, modify, and build upon Pose Pilot.
 
 ---
 
-> Made with passion by [Sai Jagadeesh Muralikrishnan](https://github.com/cravotics) 👨‍💻
+> Made with passion by Pose Pilot Team👨‍💻
 
 Stay upright. Stay sharp. Stay in the game. 🎮🔥
